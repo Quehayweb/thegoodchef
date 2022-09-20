@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="previews/icon.png" width="15%"/>
+<img src="/testfood.png" width="15%"/>
 <h1 align="center">thegoodchef - Food Recipes App</h1>
 </p>
 
@@ -13,10 +13,6 @@
 <p align="center">  
 thegoodchef es una app de prueba de android moderno.
 </br>
-
-<p align="center">
-<img src="previews/image.png"/>
-</p>
 
 ## Descarga
 
