@@ -14,6 +14,10 @@
 thegoodchef es una app de prueba de android moderno.
 </br>
 
+## Master
+
+https://github.com/michaelmartinezw/com.example.thegoodchef.git
+
 ## Descarga
 
 Ir a  [Releases](https://github.com/michaelmartinezw/thegoodchef/releases) para poder descargar el apk.
@@ -70,18 +74,31 @@ Appita is based on MVVM architecture and a repository pattern.
 
 thegoodchef (Recipes App) utiliza [Spoonacular API](https://spoonacular.com/food-api) para realizar una RESTful API.<br>
 Spoonacular API provee una RESTful API interface de objetos muy detallados creados a partir de miles de líneas de datos relacionados con recetas.
+
 ## Previo al Desarrollo
+
 -Para la utilización de la API [Spoonacular API](https://spoonacular.com/food-api) se creo un perfil para obtener la APIKEY 
+
 -Lectura detallada de la documentación para el armado de la arquitectura y de las rutas a implentar para realizar  queries y peticiones a los endpoint.
+
 ## En Desarrollo
+
 -1 Creaercion del proyecto con kotlin como lengiaje 
+
 -2 Implementación de librerias
+
 -3 Armado de la arquitectura MVVM
+
 -4 Confección de UI #corutinas #databinding
+
 -5 Confección de modelos BD con ROOM 
+
 -6 Confección de interface con retoffit para realizar las peticiones a los endpoint 
+
 -7 Inyección de depndecia en las clases requeridas #dagger
+
 -8 Testing y debugs errores 
+
 -9 Confección de documento y Upload a GITHUB
 
 # Problemas durante el desarrollo
